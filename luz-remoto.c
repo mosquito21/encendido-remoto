@@ -7,6 +7,8 @@ printf ("hello world\n");
 
 printf ("hello world 2\n");
 
+printf ("esto es una prueba\n");
+
 
 return EXIT_SUCCESS;
 }
